@@ -1,6 +1,6 @@
 # smpl
 
-Smpl ("Simple") is a simple reverse proxy. The initial commit is meant purely for serving my dwn repository, but my next goal will be to make it multipurpose and to provide configurability via a graphical (probably web) UI.
+smpl ("Simple") is a simple reverse proxy. The initial commit is meant purely for serving my dwn repository, but my next goal will be to make it multipurpose and to provide configurability via a graphical (probably web) UI.
 
 ## Inspiration
 
