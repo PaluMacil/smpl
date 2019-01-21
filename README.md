@@ -18,7 +18,7 @@ smpl help
 
 ## Roadmap
 
-I will immediately work on configuring sane production defaults and serving TLS from certs stored manually or from autocert. I will also work on loading from and saving to a bbolt database. After that I will begin working on an admin UI via html templates.
+Right now I'm hardcoding support for serving DWN over TLS. I will immediately work on configuring a more flexible reverse proxy with sane production defaults and serving TLS from certs stored via certmagic. I will also work on loading from and saving to a bbolt database. After that I will begin working on an admin UI via html templates.
 
 ## License
 
